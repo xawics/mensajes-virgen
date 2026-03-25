@@ -22,7 +22,7 @@ La app permite acceder fácilmente a mensajes espirituales, guardarlos como favo
 La app está disponible para Android.
 
 ➡️ Descargar APK desde la sección **Releases** del repositorio.
-
+https://github.com/xawics/mensajes-virgen/releases/tag/v1.0.0
 ---
 
 ## 🚀 Tecnologías utilizadas
