@@ -1,17 +1,75 @@
-# mensajes_virgen
+# 📿 Mensajes de la Virgen
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter para leer diariamente los mensajes de la Virgen del Rosario de San Nicolás.
 
-## Getting Started
+La app permite acceder fácilmente a mensajes espirituales, guardarlos como favoritos y compartirlos.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Características
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+• 📅 Mensaje diario automático
+• 🔎 Buscador de mensajes por texto
+• ⭐ Sistema de mensajes favoritos
+• 🔀 Mensajes aleatorios
+• 📤 Compartir mensajes
+• 📱 Interfaz simple y clara
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Descargar aplicación
+
+La app está disponible para Android.
+
+➡️ Descargar APK desde la sección **Releases** del repositorio.
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+• Flutter
+• Dart
+• shared_preferences
+• share_plus
+
+---
+
+## 🗂 Estructura del proyecto
+
+```
+lib/            Código principal de la aplicación
+assets/         Mensajes e imágenes
+android/        Configuración Android
+ios/            Configuración iOS
+```
+
+---
+
+## 🛠 Cómo ejecutar el proyecto
+
+1. Instalar Flutter
+2. Clonar el repositorio
+3. Ejecutar:
+
+```
+flutter pub get
+flutter run
+```
+
+---
+
+## 🙏 Propósito
+
+Esta aplicación fue creada para facilitar la lectura y difusión de los mensajes espirituales, permitiendo que más personas puedan acceder a ellos cada día.
+
+---
+
+## 👨‍💻 Autor
+
+Desarrollado por Javier Marquez
+
+---
+
+## 📄 Licencia
+
+Proyecto de uso libre con fines pastorales y educativos.
